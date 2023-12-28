@@ -1,0 +1,14 @@
+C:\Users\Atents\source\repos\ConsoleApp_03\bin\Debug\net8.0\ConsoleApp_03.exe
+C:\Users\Atents\source\repos\ConsoleApp_03\bin\Debug\net8.0\ConsoleApp_03.deps.json
+C:\Users\Atents\source\repos\ConsoleApp_03\bin\Debug\net8.0\ConsoleApp_03.runtimeconfig.json
+C:\Users\Atents\source\repos\ConsoleApp_03\bin\Debug\net8.0\ConsoleApp_03.dll
+C:\Users\Atents\source\repos\ConsoleApp_03\bin\Debug\net8.0\ConsoleApp_03.pdb
+C:\Users\Atents\source\repos\ConsoleApp_03\obj\Debug\net8.0\ConsoleApp_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atents\source\repos\ConsoleApp_03\obj\Debug\net8.0\ConsoleApp_03.AssemblyInfoInputs.cache
+C:\Users\Atents\source\repos\ConsoleApp_03\obj\Debug\net8.0\ConsoleApp_03.AssemblyInfo.cs
+C:\Users\Atents\source\repos\ConsoleApp_03\obj\Debug\net8.0\ConsoleApp_03.csproj.CoreCompileInputs.cache
+C:\Users\Atents\source\repos\ConsoleApp_03\obj\Debug\net8.0\ConsoleApp_03.dll
+C:\Users\Atents\source\repos\ConsoleApp_03\obj\Debug\net8.0\refint\ConsoleApp_03.dll
+C:\Users\Atents\source\repos\ConsoleApp_03\obj\Debug\net8.0\ConsoleApp_03.pdb
+C:\Users\Atents\source\repos\ConsoleApp_03\obj\Debug\net8.0\ConsoleApp_03.genruntimeconfig.cache
+C:\Users\Atents\source\repos\ConsoleApp_03\obj\Debug\net8.0\ref\ConsoleApp_03.dll
