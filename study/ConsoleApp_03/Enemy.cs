@@ -8,13 +8,14 @@ namespace ConsoleApp_03
 {
     internal class Enemy : Character
     {
-        public Enemy(string _name) 
+        public Enemy(string _name) : base(_name)
         {
             name = _name;
         }
-        public override void Skill()
+        protected override float OnSkill()
         {
             Console.WriteLine("적은 도끼를 던진다");
+            return attackPower * 2;
         }
     }
 }

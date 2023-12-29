@@ -16,10 +16,11 @@ namespace ConsoleApp_03
         //{
         //    Console.WriteLine("플레이어가 공격한다");
         //}
-        public override void Skill()
+        protected override float OnSkill()
         {
             //base.Skill(); // Player의 부모클래스의 skill을 사용하고
             Console.WriteLine("플레이어가 파이어볼을 사용한다."); //자신의 코드 실행
+            return attackPower * 5.0f;
         }
     }
 }
